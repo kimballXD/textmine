@@ -2,8 +2,8 @@
 """
 Created on Mon Jul 18 15:31:13 2016
     #setUpDB
-    #for x in range(postSection):
-    #    getPageList()
+    #for x in range(postSection): 
+    #    getPageList() --done
     #    parsePageList()
     #    cleanText()
     #    commitToDB()
